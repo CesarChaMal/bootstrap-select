@@ -91,4 +91,3 @@ Licensed under [the MIT license](LICENSE).
 * [Solve for All](https://solveforall.com)
 
 Does your organization use bootstrap-select? Open an issue, and include a link and logo, and you'll be added to the list.
-# bootstrap-select.
